@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Localization App</string>
+    <string name="button1_text">Click Me</string>
+    <string name="button2_text">Press Me</string>
+    <string name="button3_text">Push Me</string>
+    <string name="message1">Message for button 1</string>
+    <string name="message2">Message for button 2</string>
+    <string name="message3">Message for button 3</string>
+</resources>

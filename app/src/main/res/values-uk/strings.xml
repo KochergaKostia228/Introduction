@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Локалізований додаток</string>
+    <string name="button1_text">Натисни мене</string>
+    <string name="button2_text">Перевір мене</string>
+    <string name="button3_text">Натискай мене</string>
+    <string name="message1">Повідомлення для кнопки 1</string>
+    <string name="message2">Повідомлення для кнопки 2</string>
+    <string name="message3">Повідомлення для кнопки 3</string>
+</resources>
